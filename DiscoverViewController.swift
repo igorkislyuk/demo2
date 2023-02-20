@@ -1,0 +1,1 @@
+class DiscoverViewController: UIViewController {}
